@@ -232,6 +232,3 @@ If you find TopoDA useful, please consider giving this repository a ⭐ star and
 }
 ```
 
-## License
-
-[IDEA License 1.0](LICENSE).
