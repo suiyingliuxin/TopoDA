@@ -1,0 +1,13 @@
+# Install torch 2.7.1 / torchvision 0.22.1 with the CUDA 12.8 index first.
+numpy==1.26.4
+scipy==1.13.1
+timm==1.0.15
+huggingface_hub==0.28.1
+pycocotools==2.0.8
+opencv-python-headless==4.11.0.86
+matplotlib==3.10.0
+termcolor==2.5.0
+addict==2.4.0
+yapf==0.43.0
+easydict==1.13
+ninja==1.11.1.3
