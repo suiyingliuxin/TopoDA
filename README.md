@@ -1,5 +1,9 @@
 # Learning Topology-Aware Dynamic Associations for Robust Multi-Person Pose Estimation
 
+<p align="center">
+  <strong>English</strong> | <a href="README_zh-CN.md">简体中文</a>
+</p>
+
 ## Method
 
 We present **TopoDA**, an end-to-end framework that learns topology-aware dynamic associations for multi-person pose estimation. It combines locally-aware feature alignment (LAFA), dynamic keypoint box modulation (DKBM), and topology-aware refinement in a coarse-to-fine pipeline. By aligning multi-scale features, adapting keypoint regions, and modeling joint relations within and across people, TopoDA addresses pose ambiguity in crowded and occluded scenes.
